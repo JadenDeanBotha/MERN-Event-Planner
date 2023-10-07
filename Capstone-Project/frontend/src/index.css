@@ -1,0 +1,25 @@
+.Header {
+  margin-right:auto;
+  margin-left: auto;
+  max-width: 80%;
+}
+
+.log-in-and-sing-up {
+  margin-right: 0;
+  margin-left: 55rem;
+}
+
+#displayTable{
+  margin-right:auto;
+  margin-left: auto;
+  max-width: 80%;
+}
+
+#displayTable{
+  table-layout: fixed;
+  text-align: center;
+}
+
+#body{
+  background-color: #1f1e1d;
+}
